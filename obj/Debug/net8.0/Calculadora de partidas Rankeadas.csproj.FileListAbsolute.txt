@@ -1,0 +1,14 @@
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\bin\Debug\net8.0\Calculadora de partidas Rankeadas.exe
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\bin\Debug\net8.0\Calculadora de partidas Rankeadas.deps.json
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\bin\Debug\net8.0\Calculadora de partidas Rankeadas.runtimeconfig.json
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\bin\Debug\net8.0\Calculadora de partidas Rankeadas.dll
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\bin\Debug\net8.0\Calculadora de partidas Rankeadas.pdb
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\obj\Debug\net8.0\Calculadora de partidas Rankeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\obj\Debug\net8.0\Calculadora de partidas Rankeadas.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\obj\Debug\net8.0\Calculadora de partidas Rankeadas.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\obj\Debug\net8.0\Calculadora de partidas Rankeadas.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\obj\Debug\net8.0\Calculadora de partidas Rankeadas.dll
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\obj\Debug\net8.0\refint\Calculadora de partidas Rankeadas.dll
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\obj\Debug\net8.0\Calculadora de partidas Rankeadas.pdb
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\obj\Debug\net8.0\Calculadora de partidas Rankeadas.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Calculadora de partidas Rankeadas\obj\Debug\net8.0\ref\Calculadora de partidas Rankeadas.dll
